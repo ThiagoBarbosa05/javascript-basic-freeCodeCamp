@@ -1,0 +1,1 @@
+var myList = [["processor", 1], ["motherboard", 2], ["video card", 3], ["Ram", 4], ["SSD", 5]];
